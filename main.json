@@ -1,0 +1,1847 @@
+{
+  "data": [
+    {
+      "dashboard": [
+        {
+          "slider": [
+            {
+              "id": 1,
+              "image_mobile": "/images/banner/ssRfcjH.jpg",
+              "image_dekstop": "/images/banner/5sjfnv4.jpg"
+            },
+            {
+              "id": 2,
+              "image_mobile": "/images/banner/DRIVE-THRU-HP.jpg",
+              "image_dekstop": "/images/banner/DRIVE-THRU.jpg"
+            },
+            {
+              "id": 3,
+              "image_mobile": "/images/banner/mpKRaah.jpg",
+              "image_dekstop": "/images/banner/oTMaXQL.jpg"
+            },
+            {
+              "id": 4,
+              "image_mobile": "/images/banner/fOjD5RI.jpg",
+              "image_dekstop": "/images/banner/vEnMl9l.jpg"
+            },
+            {
+              "id": 5,
+              "image_mobile": "/images/banner/BnN4tUR.jpg",
+              "image_dekstop": "/images/banner/lfxHhv2.jpg"
+            },
+            {
+              "id": 6,
+              "image_mobile": "/images/banner/0MD5Ye0.jpg",
+              "image_dekstop": "/images/banner/4A8akcO.jpg"
+            },
+            {
+              "id": 7,
+              "image_mobile": "/images/banner/fFQlP0z.jpg",
+              "image_dekstop": "/images/banner/0gEtm6x.jpg"
+            },
+            {
+              "id": 8,
+              "image_mobile": "/images/banner/yKambTK.jpg",
+              "image_dekstop": "/images/banner/qjxnKxX.jpg"
+            },
+            {
+              "id": 9,
+              "image_mobile": "/images/banner/G20-HP.jpg",
+              "image_dekstop": "/images/banner/G20.jpg"
+            }
+          ]
+        },
+        {
+          "statistic": [
+            {
+              "data": [
+                [
+                  {
+                    "title": "Kedatangan Pelaku Perjalanan Luar Negeri",
+                    "style_background": "#FFFFFF",
+                    "type": "kedatangan",
+                    "warga_negara": [
+                      {
+                        "type": "wna",
+                        "title": "WNA Masuk",
+                        "total_jiwa": "706.190 Jiwa",
+                        "desc": "Data Jan - Sep 2022"
+                      },
+                      {
+                        "type": "wni",
+                        "title": "WNI Masuk",
+                        "total_jiwa": "1.583.419 Jiwa",
+                        "desc": "Data Jan - Sep 2022"
+                      }
+                    ]
+                  }
+                ],
+                [
+                  {
+                    "title": "Keberangkatan Pelaku Perjalanan Luar Negeri",
+                    "type": "keberangkatan",
+                    "style_background": "#FFFFFF",
+                    "warga_negara": [
+                      {
+                        "type": "wna",
+                        "title": "WNA Keluar",
+                        "total_jiwa": "663.977 Jiwa",
+                        "desc": "Data Jan - Sep 2022"
+                      },
+                      {
+                        "type": "wni",
+                        "title": "WNI Keluar",
+                        "total_jiwa": "1.754.102 Jiwa",
+                        "desc": "Data Jan - Sep 2022"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "twitter": [
+            {
+              "id": "1540256067070078976"
+            },
+            {
+              "id": "1560962134334648320"
+            },
+            {
+              "id": "1553975632975249408"
+            },
+            {
+              "id": "1561556177649307648"
+            }
+          ]
+        },
+        {
+          "videoYoutube": [
+            {
+              "id_youtube": "exsR3164fIY"
+            },
+            {
+              "id_youtube": "uafdVdvjhDo"
+            },
+            {
+              "id_youtube": "JFnYlCzLVAc"
+            },
+            {
+              "id_youtube": "zUsQO0b1fbM"
+            },
+            {
+              "id_youtube": "_xKI4x5PdZY"
+            },
+            {
+              "id_youtube": "pUV9wSticXI"
+            },
+            {
+              "id_youtube": "Iyqkl9MYOyY"
+            },
+            {
+              "id_youtube": "R7FwKwiVE00"
+            },
+            {
+              "id_youtube": "PAUzrEWWSTI"
+            },
+            {
+              "id_youtube": "KRO_g29PVGI"
+            },
+            {
+              "id_youtube": "MjvDOUo-ocM"
+            },
+            {
+              "id_youtube": "lWV_AVxDVQ4"
+            },
+            {
+              "id_youtube": "-Zhgn8NxJRE"
+            },
+            {
+              "id_youtube": "AtF-6Y2w-sA"
+            },
+            {
+              "id_youtube": "TAGF-wGF3uE"
+            }
+          ]
+        },
+        {
+          "servicesApp": [
+            {
+              "title": "Berikut adalah daftar aplikasi pelayanan Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
+              "content": [
+                {
+                  "title": "M-Paspor",
+                  "description": "Tautan untuk mengunduh aplikasi pengajuan paspor bagi pengguna telepon genggam berbasis iOS / android",
+                  "icon": "/images/apps/bSABXYS.png",
+                  "appUrl": "",
+                  "mobileApps": [
+                    {
+                      "type": "android",
+                      "url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
+                      "url_image": "/images/apps/FHclioE.png"
+                    },
+                    {
+                      "type": "ios",
+                      "url": "https://apps.apple.com/id/app/m-paspor/id1576336459",
+                      "url_image": "/images/apps/J9tDSTK.png"
+                    }
+                  ]
+                },
+                {
+                  "title": "Visa Online",
+                  "description": "Tautan yang dapat digunakan oleh WNA yang akan mengajukan visa, bisa berupa visa kunjungan, VITAS, atau lainnya",
+                  "icon": "/images/apps/mhWWwN7.png",
+                  "appUrl": "https://visa-online.imigrasi.go.id/"
+                },
+                {
+                  "title": "Cek Permohonan Paspor",
+                  "description": "Fitur layanan yang dapat digunakan oleh pemohon untuk mengetahui perkembangan proses pengajuan paspor",
+                  "icon": "/images/apps/Jush5VM.png",
+                  "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/cekpermohonan/"
+                },
+                {
+                  "title": "E-Perdim 11",
+                  "description": "Tautan untuk lampiran pengisian formulir Dokumen Perjalanan Republik Indonesia (DPRI) dalam pengajuan permohonan paspor",
+                  "icon": "/images/apps/nF90pro.png",
+                  "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
+                },
+               {
+                  "title": "Izin Tinggal Online",
+                  "description": "Tautan yang dapat digunakan oleh pemohon/WNA untuk mengajukan dan melacak pengajuan izin tinggal secara online",
+                  "icon": "/images/apps/ZixmWWn.png",
+                  "appUrl": "",
+                  "mobileApps": [
+                    {
+                      "type": "android",
+                      "url": "https://izintinggal-online.imigrasi.go.id/",
+                      "url_image": "/images/apps/Izin Tinggal Online.png"
+                    },
+                    {
+                      "type": "ios",
+                      "url": "http://kanwilkumhamdki.ddns.net:58880/intreport/device/license/",
+                      "url_image": "/images/apps/SI KIBE.png"
+                    }
+                  ]
+                },
+                {
+                  "title": "Pelaporan Orang Asing",
+                  "description": "Aplikasi yang dapat digunakan oleh masyarakat untuk pelaporan orang asing yang berada di wilayahnya",
+                  "icon": "/images/apps/dmpFSbr.png",
+                  "appUrl": "https://apoa.imigrasi.go.id/poa/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "global": [
+        {
+          "akunsosmed": [
+            {
+              "type": "Instagram",
+              "link": "/ruang-berita/galeri-foto",
+              "igUrl": "https://www.instagram.com/imigrasi.soekarnohatta/",
+              "url_logo": ""
+            },
+            {
+              "type": "Twitter",
+              "link": "https://twitter.com/imigrasi_soetta",
+              "url_logo": ""
+            },
+            {
+              "type": "Facebook",
+              "link": "https://www.facebook.com/imigrasi.soekarnohatta/",
+              "url_logo": "https://scontent.fcgk29-1.fna.fbcdn.net/v/t1.6435-9/135767233_3711361735608573_8516821874556832313_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFgTCVdtcyoe1khfeIwu6oQRf6DFogL9eVF_oMWiAv15WxApLT18Au1dpMJmz9NDPsvlAd1vMsXEfTozoRSjwGp&_nc_ohc=HfXnP_MsJxwAX-OKPkr&_nc_ht=scontent.fcgk29-1.fna&oh=00_AT_17gDNRSi4sp3CAY3aWkWKBtkGgZVa4c507Tnlj4Vl7Q&oe=63451478"
+            }
+          ]
+        },
+        {
+          "footer": [
+            {
+              "address": {
+                "title": "Alamat Kami",
+                "address": "Jl. Bandar Udara Internasional Soekarno-Hatta (Komplek Perkantoran), Tangerang, Banten, 19110"
+              },
+              "contact": {
+                "email": {
+                  "title": "Email",
+                  "content": "kanim_soekarnohatta@imigrasi.go.id"
+                },
+                "phone": {
+                  "title": "Telepon",
+                  "content": "(021) 550 7185"
+                },
+                "wa": {
+                  "title": "WhatsApp",
+                  "content": "0811 833 7004"
+                },
+                "socmed": {
+                  "title": "Sosial Media",
+                  "content": [
+                    {
+                      "path": "https://www.instagram.com/imigrasi.soekarnohatta/",
+                      "icon": "/images/socmed/8F3alDw.png"
+                    },
+                    {
+                      "path": "https://twitter.com/imigrasi_soetta",
+                      "icon": "/images/socmed/AgKMhLz.png"
+                    },
+                    {
+                      "path": "https://www.facebook.com/imigrasi.soekarnohatta",
+                      "icon": "/images/socmed/1NC6Xng.png"
+                    },
+                    {
+                      "path": "https://www.youtube.com/c/KantorImigrasiSoekarnoHatta",
+                      "icon": "/images/socmed/olr0gAq.png"
+                    },
+                    {
+                      "path": "https://www.tiktok.com/@imigrasi.soekarnohatta",
+                      "icon": "/images/socmed/ctgI8yj.png"
+                    }
+                  ]
+                }
+              },
+              "otherLinks": [
+                {
+                  "label": "Pengumuman",
+                  "path": "/ruang-berita/pengumuman"
+                },
+                {
+                  "label": "Ruang Berita",
+                  "path": "/ruang-berita"
+                },
+                {
+                  "label": "Statistik",
+                  "path": "/informasi-publik/statistik"
+                },
+                {
+                  "label": "Jam Kerja",
+                  "path": "/informasi-publik/jam-pelayanan"
+                }
+              ],
+              "relatedLink": {
+                "title": "Link Terkait",
+                "content": [
+                  {
+                    "label": "Kemenkumham RI",
+                    "path": "https://kemenkumham.go.id/"
+                  },
+                  {
+                    "label": "Direktorat Jendral Imigrasi",
+                    "path": "https://www.imigrasi.go.id/id/"
+                  },
+                  {
+                    "label": "Kanwil DKI Jakarta",
+                    "path": "https://jakarta.kemenkumham.go.id/"
+                  },
+                  {
+                    "label": "Lapor.id",
+                    "path": "https://www.lapor.go.id/"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "kontak": [
+            {
+              "type": "whistleblower",
+              "content": "Whistleblower",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLSfv2KxBKJFDlSCtMaROY16ctTI3_xzTmxWRCuVo4wyyJITXYA/viewform"
+            },
+            {
+              "type": "lapor.id",
+              "content": "lapor.id",
+              "link": "https://lapor.go.id/"
+            },
+            {
+              "type": "wa",
+              "content": "+628118337004",
+              "link": "https://wa.me/"
+            },
+            {
+              "type": "mail",
+              "content": "Kanim_soekarnohatta@imigrasi.go.id",
+              "link": "mailto:"
+            },
+            {
+              "type": "phone",
+              "content": "+628118337004",
+              "link": "tel:"
+            }
+          ]
+        },
+        {
+          "strukturorganisasi": {
+            "leader": {
+              "title": "Kepala Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
+              "name": "Muhammad Tito Andrianto, S.H, M.H",
+              "nip": "NIP. 19780114 199703 1 001",
+              "photo": "/images/pejabat/R4RtKXc.jpg"
+            },
+            "tu": [
+              {
+                "title": "Kepala Bagian Tata Usaha",
+                "name": "Nur Raisha Pujiastuti, S.H, M.H",
+                "nip": "NIP. 19690423 199403 2 001",
+                "photo": "/images/pejabat/Eq1OK4t.jpg"
+              },
+              {
+                "title": "Kepala Sub Bagian Kepegawaian dan Umum",
+                "name": "Setyo Pitriyono, S.H",
+                "nip": "NIP. 19670114 198903 1 002",
+                "photo": "/images/pejabat/N8gG92O.jpg"
+              },
+              {
+                "title": "Kepala Sub Bagian Keuangan",
+                "name": "Edy Sriyatno, S.H",
+                "nip": "NIP. 19680409 200112 1 001",
+                "photo": "/images/pejabat/98buu21.jpg"
+              }
+            ],
+            "tikim": [
+              {
+                "title": "Kepala Bidang Teknologi Informasi dan Komunikasi Keimigrasian",
+                "name": "Habiburrahman A.K.S, S.H, M.M",
+                "nip": "NIP. 19710730 199603 1 001",
+                "photo": "/images/pejabat/lSqs9pC.jpg"
+              },
+              {
+                "title": "Kepala Seksi Teknologi Informasi Keimigrasian",
+                "name": "Oke Yoviana Nurmayanti, S.E, M.M",
+                "nip": "NIP. 19760513 200112 2 001",
+                "photo": "/images/pejabat/8PgVrHT.jpg"
+              },
+              {
+                "title": "Kepala Seksi Informasi dan Komunikasi Keimigrasian",
+                "name": "Jongki Ade Situngkir, S.H, M.M",
+                "nip": "NIP. 19840308 200604 1 001",
+                "photo": "/images/pejabat/N7kbWbm.jpg"
+              }
+            ],
+            "doklan": [
+              {
+                "title": "Kepala Bidang Dokumen Perjalanan dan Izin Tinggal Keimigrasian",
+                "name": "Ika Rahmawati, A.Md, Im., S.I.P",
+                "nip": "NIP. 19810811 200002 2 001",
+                "photo": "/images/pejabat/F5ERmP2.jpg"
+              },
+              {
+                "title": "Kepala Seksi Dokumen Perjalanan",
+                "name": "Heldi Khair Raja, A.Md, Im S.H, M.Si",
+                "nip": "NIP. 19880313 200801 1 001",
+                "photo": "/images/pejabat/kasek_dokumen_perjalanan.jpg"
+              },
+              {
+                "title": "Kepala Seksi Izin Tinggal Keimigrasian",
+                "name": "Yohanes Roy Surya Sanjaya, S.Tr.Im., M.M.",
+                "nip": "NIP. 19940501 201608 1 001",
+                "photo": "/images/pejabat/kasek_izin_tinggal_keimigrasian.jpg"
+              }
+            ],
+            "intel": [
+              {
+                "title": "Kepala Bidang Intelijen dan Penindakan Keimigrasian",
+                "name": "Andhika Pandu Kurniawan, A.Md,Im., S.H., M.PA",
+                "nip": "NIP. 19820505 200212 1 001",
+                "photo": "/images/pejabat/jnd0vWf.jpg"
+              },
+              {
+                "title": "Kepala Seksi Intelijen Keimigrasian",
+                "name": "Yogi Saputra Pribadi K, A.Md,Im, S.H",
+                "nip": "NIP. 19881024 200701 1 002",
+                "photo": "/images/pejabat/uinaTcB.jpg"
+              },
+              {
+                "title": "Kepala Seksi Penindakan Keimigrasian",
+                "name": "Bismo Surono, A.Md, Im., S.H",
+                "nip": "NIP. 19890421 200801 1 005",
+                "photo": "/images/pejabat/NH9dNwe.jpg"
+              }
+            ],
+            "tpi": [
+              {
+                "title": "Kepala Bidang Tempat Pemeriksaan Imigrasi",
+                "name": "Verico Sandi, A.Md. Im., S.H., M.Si",
+                "nip": "NIP. 19820326 200012 1 001",
+                "photo": "/images/pejabat/3QYD823.jpg"
+              },
+              {
+                "title": "Kepala Seksi Pemeriksaan I",
+                "name": "Maximilianus Kolbe Kristanto Lake, S.T, S.H, M.H",
+                "nip": "NIP. 19840824 200912 1 005",
+                "photo": "/images/pejabat/MtJQPCE.jpg"
+              },
+              {
+                "title": "Kepala Seksi Pemeriksaan II",
+                "name": "Nanang Saiful Isra Rusli, S.H",
+                "nip": "NIP. 19910212 201012 1 003",
+                "photo": "/images/pejabat/UBLxclz.jpg"
+              },
+              {
+                "title": "Kepala Seksi Pemeriksaan III",
+                "name": "Afif Nur Anshari, S.H",
+                "nip": "NIP. 19890426 200801 1 001",
+                "photo": "/images/pejabat/RnPwdOe.jpg"
+              },
+              {
+                "title": "Kepala Seksi Pemeriksaan IV",
+                "name": "Widhi Deniartomo Arisona, A.md.Im., S.H.",
+                "nip": "NIP. 19901211 201012 1 001",
+                "photo": "/images/pejabat/DpWrdUp.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "profilekantor": {
+            "shortProfile": {
+              "title": "Profil Singkat Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta",
+              "content": "Kantor Imigrasi Kelas I Khusus TPI Soetta merupakan Unit Pelaksana Teknis di bidang Keimigrasian, bertanggung jawab langsung kepada Kepala Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia DKI Jakarta. Tugas pokok dan fungsinya adalah memberikan pelayanan kepada masyarakat, melaksanakan pengamanan negara melalui pengawasan perlintasan, penegakan hukum di bidang keimigrasian, serta fasilitator kesejahteraan masyarakat."
+            },
+            "history": {
+              "title": "Sejarah",
+              "list": [
+                {
+                  "year": "1985",
+                  "date": "1 April 1985",
+                  "content": "Kantor Imigrasi diresmikan oleh Menteri Kehakiman. Posisi Kantor Imigrasi Soekarno Hatta menggantikan Kantor Imigrasi Halim Perdana Kusuma dikarenakan kegiatan penerbangan saat itu juga dipindah ke bandara Soekarno Hatta."
+                },
+                {
+                  "year": "2003",
+                  "date": "3 Desember 2003",
+                  "content": "Seiring berjalannya waktu, aktivitas penerbangan internasional semakin meningkat serta volume kerja juga cukup besar, maka Kantor Imigrasi I Soekarno Hatta berubah klasifikasinya menjadi Kantor Imigrasi Kelas I Khusus Soekarno Hatta, berdasarkan urat Keputusan Menteri Hukum dan Hak Asasi Manusia Nomor M.14.PR.07.04 Tahun 2003 Tanggal 03 Desember 2003."
+                },
+                {
+                  "year": "2018",
+                  "date": "13 Juli 2018",
+                  "content": "2018 telah dibentuk perubahan Organisasi dan Tata Kerja Kantor Imigrasi yang baru dilingkungan Kementerian Hukum dan HAM. Kantor Imigrasi Kelas I Khusus Soekarno Hatta berubah menjadi Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta yang telah dituangkan dalam Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 19 Tahun 2018 tanggal 13 Juli 2018 tentang Organisasi dan Tata Kerja Kantor Imigrasi."
+                }
+              ]
+            },
+            "service": {
+              "title": "Visi, Misi, Motto dan Janji Layanan",
+              "vision": "Masyarakat Memperoleh Kepastian Hukum",
+              "mission": "Melindungi Hak Asasi Manusia",
+              "motto": "Melayani Dengan Tulus",
+              "servicePromise": [
+                "Kepastian Hukum",
+                "Kepastian Layanan",
+                "Kepastian Waktu Penyelesaian"
+              ]
+            },
+            "workingArea": {
+              "title": "Cakupan Wilayah Kerja Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta",
+              "description1": "Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta merupakan Unit Pelaksana Teknis di bidang Keimigrasian, bertanggung jawab langsung kepada Kepala Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia DKI Jakarta. Tugas pokok dan fungsinya adalah memberikan pelayanan kepada masyarakat serta melaksanakan pengawasan perlintasan & penegakan hukum di bidang keimigrasian.",
+              "description2": "Wilayah Kerja Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta mengawasi 2 kecamatan, yaitu :",
+              "description3": "Bandara Internasional Soekarno-Hatta merupakan wilayah kerja Kanim Kelas I Khusus TPI Soekarno Hatta sebagai tempat pemeriksaan imigrasi (TPI).",
+              "areaName1": "Wilayah Cengkareng",
+              "areaName2": "Wilayah Kalideres",
+              "cengkarengArea": [
+                "Cengkareng Barat",
+                "Cengkareng Timur",
+                "Duri Kosambi",
+                "Kapuk",
+                "Kedauk Kaliangke",
+                "Rawa Buaya"
+              ],
+              "kalideresArea": [
+                "Kalideres",
+                "Kamal",
+                "Pegadungan",
+                "Semanan",
+                "Tegal Alur"
+              ]
+            },
+            "systemIntegration": {
+              "description": "System kerja di kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta ditunjang dengan kesisteman yang terintegrasi. System yang bekerja semua terkoneksi untuk melakukan pelayanan sekaligus pengawasan keimigrasian",
+              "list": [
+                "Sistem penerbitan paspor berbasis biometric dan face recognition",
+                "Sistem e-office sebagai sarana pelayanan keimigrasian yang terkoneksi antara Unit Pelaksana Teknis (UPT) dengan Kantor Wilayah serta Direktorat Jenderal Imigrasi dan Direktorat Jenderal Imigrasi.",
+                "Sistem Enhanced Cekal System (ECS) sebagai sarana pemeriksaan cegah tangkal (cekal)",
+                "Passanger Moving System (PMS) sebagai sarana perlintasan orang di Tempat Pemeriksaan Imigrasi (TPI)",
+                "Sistem Border Control Management (BCM) dapat terekam ke pusat data keimigrasian",
+                "E-passport",
+                "Autogate sebagai sarana perlintasan orang (khususnya WNI) di Tempat Pemeriksaan Imigrasi baik yang menggunakan e-passport maupun paspor biasa"
+              ]
+            },
+            "headsOfficeList": [
+              {
+                "name": "Muhammad Tito Andrianto",
+                "years": "2022 - Sekarang"
+              },
+              {
+                "name": "Romi Yudianto",
+                "years": "2020 - 2022"
+              },
+              {
+                "name": "Saffar Muhammad Godam",
+                "years": "2019 - 2020"
+              },
+              {
+                "name": "M. T. Satiawan, S.Sos., M.M",
+                "years": "2019 - 2019"
+              },
+              {
+                "name": "Enang Supriyadi Syamsi, S.H",
+                "years": "2017 - 2018"
+              },
+              {
+                "name": "Kaharuddin, S.H, M.M",
+                "years": "2016 - 2017"
+              },
+              {
+                "name": "Drs. Alif Suaidi, M.Si",
+                "years": "2015 - 2016"
+              },
+              {
+                "name": "Sutrisno, S.HH, M.H",
+                "years": "2014 - 2015"
+              },
+              {
+                "name": "Efendy B. Peranginangin, S.H",
+                "years": "2012 - 2014"
+              },
+              {
+                "name": "Rochadi Iman Santoso, S.H., M.H",
+                "years": "2011 - 2012"
+              },
+              {
+                "name": "Dirman Sukarsi, S.H., M.h",
+                "years": "2010 - 2011"
+              },
+              {
+                "name": "Luckman Hakim, Bc.IM., S.H",
+                "years": "2007 - 2010"
+              },
+              {
+                "name": "Dody Maywardi Wibowo",
+                "years": "2006 - 2007"
+              },
+              {
+                "name": "Bambang Irawan",
+                "years": "2005 - 2006"
+              },
+              {
+                "name": "Drs. H. Guntoro Hermanuadi",
+                "years": "2003 - 2005"
+              },
+              {
+                "name": "Drs. Arihken Tarigan",
+                "years": "1999 - 2003"
+              },
+              {
+                "name": "Sudirman, S.H",
+                "years": "1996 - 1999"
+              },
+              {
+                "name": "Koswara, S.H",
+                "years": "1994 - 1996"
+              },
+              {
+                "name": "Pommy AJ Theedens, Bc.Im",
+                "years": "1992 - 1994"
+              },
+              {
+                "name": "Soejatno, BC.IM",
+                "years": "1989 - 1992"
+              },
+              {
+                "name": "Drs. Toni A. Siregar",
+                "years": "1987 - 1989"
+              },
+              {
+                "name": "Drs. Fuad Djapar",
+                "years": "1985 - 1987"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "publicinfo": [
+        {
+          "agendakegiatan": {
+            "pageTitle": "",
+            "contents": [
+              {
+                "type": "event_calendar",
+                "content": [
+                  {
+                    "data": [
+                      {
+                        "tanggal": "2022/08/25",
+                        "jam": "06: 00",
+                        "judul": "Perayaan HUT RI ke-77 Komunitas Bandara Soekarno-Hatta",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Polresta Bandara Soekarno-Hatta & Gedung Angkasa Pura 2"
+                      },
+                      {
+                        "tanggal": "2022/08/25",
+                        "jam": "09: 00",
+                        "judul": "Talkshow `Ke Luar Negeri? Siapa Takut!` Radio Dangdut Indonesia",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : MNC Tower - Kebon Sirih Jakarta Pusat"
+                      },
+                      {
+                        "tanggal": "2022/08/19",
+                        "jam": "07: 30",
+                        "judul": "Upacara Peringatan HUT Kemenkumham HDKD 2022",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Lapangan Upacara Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/08/18",
+                        "jam": "14: 00",
+                        "judul": "Konferensi Pers - Kasus Penggunaan Visa Palsu oleh 3 WN Pakistan",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Aula Lantai 2 Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/08/17",
+                        "jam": "08: 00",
+                        "judul": "Upacara Peringatan Hari Ulang Tahun ke-77 Kemerdekaan Republik Indonesia Tahun 2022",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Lapangan Upacara Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/08/04",
+                        "jam": "22: 30",
+                        "judul": "Ekstradisi WN Hongaria a.n. Robert Horvath Kepada Pemerintah Hongaria",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Terminal 3 Keberangkatan Internasional Bandara Soekarno-Hatta"
+                      },
+                      {
+                        "tanggal": "2022/07/21",
+                        "jam": "09: 00",
+                        "judul": "Pemusnahan Arsip Fisik Keimigrasian Tahun Anggaran 2022",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Aula Lantai 2 Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/07/15",
+                        "jam": "23: 05",
+                        "judul": "Pemeriksaan Keimigrasian Jamaah Haji Kloter 1",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Terminal 2 Kedatangan Internasional Bandara Soekarno-Hatta"
+                      },
+                      {
+                        "tanggal": "2022/07/12",
+                        "jam": "09: 00",
+                        "judul": "Konferensi Pers - Kasus Pemalsuan Paspor Meksiko ",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Aula Lantai 2 Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/07/06",
+                        "jam": "19: 00",
+                        "judul": "Anugerah Humas Imigrasi Indonesia",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Hotel Ayana Midplaza Jakarta "
+                      },
+                      {
+                        "tanggal": "2022/06/28",
+                        "jam": "09: 00",
+                        "judul": "Bakti Sosial Donor Darah ",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Aula Lantai 2 Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/06/22",
+                        "jam": "06: 30",
+                        "judul": "Deportasi WN Jepang Tersangka Kasus Dugaan Penipuan Dana Bansos Covid-19 di Jepang",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Terminal 3 Keberangkatan Internasional Bandara Soekarno-Hatta"
+                      },
+                      {
+                        "tanggal": "2022/06/10",
+                        "jam": "09: 00",
+                        "judul": "Workshop IMPACTFUL - Pelatihan Kehumasan ",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Hotel Mercure Ancol "
+                      },
+                      {
+                        "tanggal": "2022/06/13",
+                        "jam": "07: 30",
+                        "judul": "Pemberian Penghargaan Kepada Pegawai Berprestasi Bulan April, Mei dan Juni 2022",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Lapangan Upacara Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/06/07",
+                        "jam": "09: 00",
+                        "judul": "Live Streaming @liputan6 - Kesiapan Imigrasi Soekarno-Hatta Sambut Ibadah Haji 2022",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Studio Kapanlagi Youniverse - Jakarta "
+                      },
+                      {
+                        "tanggal": "2022/06/04",
+                        "jam": "06: 00",
+                        "judul": "Instagram Live \"Immigration ON AIR\": Pemberangkatan Haji Kloter Pertama di Bandara Internasional Soekarno-Hatta",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Terminal 2 Bandara Internasional Soekarno-Hatta"
+                      },
+                      {
+                        "tanggal": "2022/04/24",
+                        "jam": "07: 00",
+                        "judul": "Apel gelar pasukan angkutan lebaran bersama Menteri Perhubungan ",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Terminal 1 Bandara Soekarno-Hatta"
+                      },
+                      {
+                        "tanggal": "2022/04/21",
+                        "jam": "09: 00",
+                        "judul": "Rapat koordinasi Timpora ",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Hotel Anara Bandara Soekarno-Hatta"
+                      },
+                      {
+                        "tanggal": "2022/04/19",
+                        "jam": "09: 00",
+                        "judul": "Instagram Live \"Immigration ON AIR\": Update Visa on Arrival dan Bebas Visa Kunjungan Khusus Wisata di Bandara Soekarno-Hatta",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Terminal 3 Kedatangan Internasional Bandara Soekarno-Hatta"
+                      },
+                      {
+                        "tanggal": "2022/04/11",
+                        "jam": "08: 00",
+                        "judul": "Penyematan Pin \"Tegur Saya Jika Tidak Ramah\" ",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Aula Lantai 2 Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/04/08",
+                        "jam": "00: 01",
+                        "judul": "Pembukaan fasilitas Visa on Arrival Khusus Wisata ",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Terminal 3 Kedatangan Internasional Bandara Soekarno-Hatta"
+                      },
+                      {
+                        "tanggal": "2022/04/06",
+                        "jam": "14: 00",
+                        "judul": "Konferensi Pers - Kasus Pemalsuan E-visa ",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Aula Lantai 2 Kanim Soetta"
+                      },
+                      {
+                        "tanggal": "2022/04/01",
+                        "jam": "08: 00",
+                        "judul": "Site visit tim Securiport",
+                        "kategori": "Kategori Kegiatan",
+                        "deskripsi": "Lokasi : Terminal 3 Keberangkatan Internasional Bandara Soekarno-Hatta"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "informasianggaran": {
+            "budgetExecutionList": {
+              "pageTitle": "Daftar Isian Pelaksanaan Anggaran (DIPA)",
+              "contents": [
+                {
+                  "type": "p",
+                  "content": "Daftar Isian Pelaksanaan Anggaran atau disingkat DIPA merupakan dokumen pelaksanaan anggaran yang disusun oleh Pengguna Anggaran/Kuasa Pengguna Anggaran."
+                },
+                {
+                  "type": "card_berkas_single_link",
+                  "content": [
+                    {
+                      "title": "DIPA Tahun 2022",
+                      "link": "https://drive.google.com/file/d/1kwO8VZvnh22rK6MlIvPpLqHkN8IOvEsP/view?usp=sharing"
+                    },
+                    {
+                      "title": "DIPA Tahun 2021",
+                      "link": "https://drive.google.com/file/d/1pFM_EgDmMEJG8V1qGEnnu2HVF_r6tJuw/view?usp=sharing"
+                    }
+                  ]
+                }
+              ]
+            },
+            "governmentAgencyPerformanceAccountabilityReport": {
+              "pageTitle": "Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP)",
+              "contents": [
+                {
+                  "type": "p",
+                  "content": "LAKIP merupakan bentuk pertanggungjawaban atas hasil kinerja dari seluruh kebijakan, program, kegiatan yang didasarkan pada visi, misi, tujuan dan sasaran yang telah ditetapkan, termasuk diantaranya penggunaan anggaran."
+                },
+                {
+                  "type": "card_berkas_single_link",
+                  "content": [
+                    {
+                      "title": "LAKIP Tahun 2021",
+                      "link": "https://drive.google.com/file/d/1D3p2TOYGg6bdGFHU_33SCnGbVYxetb6_/view?usp=sharing"
+                    },
+                    {
+                      "title": "LAKIP Tahun 2020",
+                      "link": "https://drive.google.com/file/d/1hRTs7WXTiPbosGErF3TkJH9_xY2hscWO/view?usp=sharing"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "jampelayanan": {
+            "pageTitle": "Jam Pelayanan",
+            "contents": [
+              {
+                "type": "card_service_hours",
+                "content": [
+                  {
+                    "hari": "Senin - Kamis",
+                    "operasional": "07:30 - 16:00 WIB - Operasional",
+                    "istirahat": "12:00 - 13:00 WIB - Istirahat",
+                    "pelayanan": "08:00 - 15:00 WIB - Pelayanan Paspor dan Izin Tinggal"
+                  },
+                  {
+                    "hari": "Jumat",
+                    "operasional": "07:30 - 16:30 WIB - Operasional",
+                    "istirahat": "11:30 - 13:00 WIB - Istirahat",
+                    "pelayanan": "08:00 - 15:00 WIB - Pelayanan Paspor dan Izin Tinggal"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "maklumat": {
+            "pageTitle": "Maklumat Pelayanan",
+            "contents": [
+              {
+                "type": "card_quotes",
+                "content": [
+                  {
+                    "link": "https://drive.google.com/file/d/1ZAX5WR3BpNydhyNFJuWGZQE4uDPwMwYj/view?usp=sharing",
+                    "title": "NO: W.10.IMI.IMI.I.UM.01.01-3987 TAHUN 2022",
+                    "open_1": "Kami seluruh pegawai Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta dengan ini menyatakan sanggup memberikan pelayanan Keimigrasian berbasis HAM yang cepat, tepat dan profesional tanpa suap, pungli dan gratifikasi atas layanan:",
+                    "list_1": [
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Program I FIL PLAY (Imigrasi Soekarno-Hatta dengan Fasilitas Layanan Prioritas)"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Pelayanan M-Paspor"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Eazy passport"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Permohonan paspor biasa dan elektronik"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Penggantian paspor biasa dan elektronik"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Penerbitan dokumen Keimigasian bagi WNA (ITK, ITAS, ITAP, Sertifikat ABG, SKIM dan FASKIM)"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Layanan informasi dan pengaduan"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "CCTV face recognition serta"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Pemeriksaan Keimigrasian di Tempat Pemeriksaan Imigrasi"
+                      }
+                    ],
+                    "close_1": "Apabila tidak menepati janji, kami siap menerima sanksi sesuai peraturan perundang-undangan yang berlaku.",
+                    "title_2": "Declaration of Service",
+                    "open_2": "We, employees of Soekarno-Hatta Immigration Office hereby declared that we are able to provide Immigration services based on human rights that are fast, precise, professional services without bribes, extortion or gratuity for services. With our main program consist of:",
+                    "list_2": [
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "I FIL Play service (immigration facility for priority, infant and elderly)"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "M-Passport Service"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Eazy passport service"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Regular and electronic passport service"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Replacement of regular and electronic passport"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Issuance of stay permit document (visit stay permit, limited stay permit, permanent stay permit, dual nationality child certificate, immigration certificate, immigration facility card)"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Information and complaint service"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "CCTV face recognition"
+                      },
+                      {
+                        "title": "",
+                        "type": "li",
+                        "content": "Immigration checks at immigration checkpoints."
+                      }
+                    ],
+                    "close_2": "We are ready to accept sanctions in accordance with the prevailing laws and regulations.",
+                    "waktu": "Tangerang, 25 Maret 2022",
+                    "ttd_oleh": "Kepala Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
+                    "kepala": "Muhammad Tito Andrianto",
+                    "nip": "NIP. 197801141997031001"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "statistik": {
+            "budgetAbsorptionPublication": {
+              "pageTitle": "Publikasi Penyerapan Anggaran",
+              "contents": [
+                {
+                  "type": "p",
+                  "content": "Sebagai bentuk akuntabilitas atas hasil evaluasi kegiatan dan anggaran bulan Juni Tahun Anggaran 2022, bersama ini kami sampaikan data realisasi anggaran pada tiap bagian/bidang sebagai berikut: "
+                },
+                {
+                  "type": "chart_pie",
+                  "content": [
+                    {
+                      "data": [
+                        {
+                          "periode": "Juni 2022",
+                          "data": [
+                            56.59,
+                            7.18,
+                            41.62,
+                            6.96,
+                            25.54
+                          ]
+                        },
+                        {
+                          "periode": "Juli 2022",
+                          "data": [
+                            65.6,
+                            17.34,
+                            50.18,
+                            15.41,
+                            33.24
+                          ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            74.05,
+                            20.79,
+                            60.55,
+                            19.79,
+                            40.01
+                          ]
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            80.43,
+                            28.36,
+                            74.12,
+                            29.85,
+                            46.70
+                          ]
+                        }                          
+                      ],
+                      "label": [
+                        "Bidang TU",
+                        "Bidang Inteldakim",
+                        "Bidang TIKKIM",
+                        "Bidang Doklanintalkim",
+                        "Bidang TPI"
+                      ],
+                      "filter": [
+                        {
+                          "label": "Juni 2022",
+                          "value": "Juni 2022"
+                        },
+                        {
+                          "label": "Juli 2022",
+                          "value": "Juli 2022"
+                        },
+                        {
+                          "label": "Agustus 2022",
+                          "value": "Agustus 2022"
+                        },
+                        {
+                          "label": "September 2022",
+                          "value": "September 2022"
+                        }                        
+                      ],
+                      "colors": [
+                        "#030D26",
+                        "#FBAF17",
+                        "#2F5B4F",
+                        "#F3D10D",
+                        "#11375C"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "statisticPublication": {
+              "pageTitle": "Publikasi Statistik Data Perlintasan WNI dan WNA",
+              "contents": []
+            },
+            "crossGraphics": {
+              "pageTitle": "Publikasi Statistik Data Perlintasan WNI dan WNA",
+              "contents": [
+                {
+                  "type": "h4",
+                  "content": "Grafik Perlintasan"
+                },
+                {
+                  "type": "p",
+                  "content": "Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta melaksanakan fungsi Keimigrasian dalam memberikan pelayanan Keimigrasian, penegakan hukum, keamanan negara, dan fasilitator pembangunan kesejahteraan masyarakat. "
+                },
+                {
+                  "type": "p",
+                  "content": "Tempat Pemeriksaan Imigrasi Soekarno-Hatta merupakan salah tempat masuk dan keluar Wilayah Indonesia bagi pelaku perjalanan luar negeri. Statistik perlintasan Warga Negara Indonesia serta Warga Negara Asing yang masuk dan meninggalkan Wilayah Indonesia melalui TPI Bandara Soekarno-Hatta dapat dilihat melalui tampilan grafik berikut ini: "
+                },
+                {
+                  "type": "h4",
+                  "content": "Kedatangan Pelaku Perjalanan Luar Negeri "
+                },
+                {
+                  "type": "chart_line",
+                  "content": [
+                    {
+                      "data": [
+                        {
+                          "label": "WNI",
+                          "borderColor": "#11375C",
+                          "backgroundColor": "#11375C",
+                          "data": {
+                            "Jan": 69986,
+                            "Feb": 74809,
+                            "Mar": 140401,
+                            "Apr": 167728,
+                            "Mei": 222163,
+                            "Jun": 194242,
+                            "Jul": 219980,
+                            "Ags": 213165,
+                            "Sep": 280945,
+                            "Okt": 0,
+                            "Nov": 0,
+                            "Des": 0
+                          },
+                          "datalabels": {
+                            "align": "end",
+                            "anchor": "start"
+                          }
+                        },
+                        {
+                          "label": "WNA",
+                          "borderColor": "#FBAF17",
+                          "backgroundColor": "#FBAF17",
+                          "data": {
+                            "Jan": 25942,
+                            "Feb": 23503,
+                            "Mar": 31268,
+                            "Apr": 44442,
+                            "Mei": 81816,
+                            "Jun": 95727,
+                            "Jul": 136821,
+                            "Ags": 138604,
+                            "Sep": 128067,
+                            "Okt": 0,
+                            "Nov": 0,
+                            "Des": 0
+                          },
+                          "datalabels": {
+                            "align": "end",
+                            "anchor": "start"
+                          }
+                        }
+                      ],
+                      "label": [
+                        "Jan",
+                        "Feb",
+                        "Mar",
+                        "Apr",
+                        "Mei",
+                        "Jun",
+                        "Jul",
+                        "Ags",
+                        "Sep",
+                        "Okt",
+                        "Nov",
+                        "Des"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "card_statistic_column",
+                  "content": [
+                    {
+                      "statistic": [
+                        {
+                          "title": "",
+                          "style_background": "",
+                          "type": "kedatangan",
+                          "warga_negara": [
+                            {
+                              "type": "wna",
+                              "title": "WNA Masuk",
+                              "total_jiwa": "706.190 Jiwa",
+                              "desc": "Data Jan - Sep 2022"
+                            },
+                            {
+                              "type": "wni",
+                              "title": "WNI Masuk",
+                              "total_jiwa": "1.583.419 Jiwa",
+                              "desc": "Data Jan - Sep 2022"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "h4",
+                  "content": "Keberangkatan Pelaku Perjalanan Luar Negeri "
+                },
+                {
+                  "type": "chart_line",
+                  "content": [
+                    {
+                      "data": [
+                        {
+                          "label": "WNI",
+                          "borderColor": "#11375C",
+                          "backgroundColor": "#11375C",
+                          "data": {
+                            "Jan": 66374,
+                            "Feb": 88660,
+                            "Mar": 150528,
+                            "Apr": 182273,
+                            "Mei": 252636,
+                            "Jun": 224135,
+                            "Jul": 193521,
+                            "Ags": 265981,
+                            "Sep": 329994,
+                            "Okt": 0,
+                            "Nov": 0,
+                            "Des": 0
+                          },
+                          "datalabels": {
+                            "align": "end",
+                            "anchor": "start"
+                          }
+                        },
+                        {
+                          "label": "WNA",
+                          "borderColor": "#FBAF17",
+                          "backgroundColor": "#FBAF17",
+                          "data": {
+                            "Jan": 18976,
+                            "Feb": 18545,
+                            "Mar": 29286,
+                            "Apr": 48044,
+                            "Mei": 67933,
+                            "Jun": 92112,
+                            "Jul": 120761,
+                            "Ags": 143066,
+                            "Sep": 125254,
+                            "Okt": 0,
+                            "Nov": 0,
+                            "Des": 0
+                          },
+                          "datalabels": {
+                            "align": "end",
+                            "anchor": "start"
+                          }
+                        }
+                      ],
+                      "label": [
+                        "Jan",
+                        "Feb",
+                        "Mar",
+                        "Apr",
+                        "Mei",
+                        "Jun",
+                        "Jul",
+                        "Ags",
+                        "Sep",
+                        "Okt",
+                        "Nov",
+                        "Des"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "card_statistic_column",
+                  "content": [
+                    {
+                      "statistic": [
+                        {
+                          "title": "",
+                          "style_background": "",
+                          "type": "keberangkatan",
+                          "warga_negara": [
+                            {
+                              "type": "wna",
+                              "title": "WNA Keluar",
+                              "total_jiwa": "663.977 Jiwa",
+                              "desc": "Data Jan - Sep 2022"
+                            },
+                            {
+                              "type": "wni",
+                              "title": "WNI Keluar",
+                              "total_jiwa": "1.754.102 Jiwa",
+                              "desc": "Data Jan - Sep 2022"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "fiveCountriesEnteringIndonesia": {
+              "pageTitle": "Publikasi Statistik Data Perlintasan WNI dan WNA",
+              "contents": [
+                {
+                  "type": "h4",
+                  "content": "Top 5 Negara yang Masuk ke Indonesia"
+                },
+                {
+                  "type": "p",
+                  "content": " Setiap Orang Asing yang masuk Wilayah Indonesia wajib memiliki Visa yang sah dan masih berlaku, kecuali ditentukan lain berdasarkan Undang-Undang dan perjanjian internasional."
+                },
+                {
+                  "type": "chart_bar_horizontal",
+                  "content": [
+                    {
+                      "data": [
+                        {
+                          "periode": "Januari 2022",
+                          "data": [
+                            2911,
+                            2340,
+                            2295,
+                            2088,
+                            1384
+                          ]
+                        },
+                        {
+                          "periode": "Februari 2022",
+                          "data": [
+                            3321,
+                            2118,
+                            1839,
+                            1590,
+                            1566
+                          ]
+                        },
+                        {
+                          "periode": "Maret 2022",
+                          "data": [
+                            4520,
+                            2714,
+                            2240,
+                            2085,
+                            1698
+                          ]
+                        },
+                        {
+                          "periode": "April 2022",
+                          "data": [
+                            4458,
+                            4015,
+                            3901,
+                            3813,
+                            3522
+                          ]
+                        },
+                        {
+                          "periode": "Mei 2022",
+                          "data": [
+                            8527,
+                            7566,
+                            6994,
+                            5955,
+                            5490
+                          ]
+                        },
+                        {
+                          "periode": "Juni 2022",
+                          "data": [
+                            10836,
+                            8146,
+                            7781,
+                            6927,
+                            6681
+                          ]
+                        },
+                        {
+                          "periode": "Juli 2022",
+                          "data": [
+                            12890,
+                            11032,
+                            10561,
+                            8363,
+                            8080
+                          ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            14390,
+                            9833,
+                            9768,
+                            9565,
+                            9480
+                          ]
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            16363,
+                            10458,
+                            10089,
+                            8838,
+                            8385
+                          ]
+                        }                        
+                      ],
+                      "label": [
+                        {
+                          "periode": "Januari 2022",
+                          "data": [
+                            "Jepang",
+                            "Tiongkok",
+                            "India",
+                            "Korea Selatan",
+                            "Amerika Serikat"
+                          ]
+                        },
+                        {
+                          "periode": "Februari 2022",
+                          "data": [
+                            "Tiongkok",
+                            "Korea Selatan",
+                            "Jepang",
+                            "India",
+                            "Malaysia"
+                          ]
+                        },
+                        {
+                          "periode": "Maret 2022",
+                          "data": [
+                            "Tiongkok",
+                            "Jepang",
+                            "Korea Selatan",
+                            "India",
+                            "Malaysia"
+                          ]
+                        },
+                        {
+                          "periode": "April 2022",
+                          "data": [
+                            "Malaysia",
+                            "Jepang",
+                            "Tiongkok",
+                            "Korea Selatan",
+                            "India"
+                          ]
+                        },
+                        {
+                          "periode": "Mei 2022",
+                          "data": [
+                            "Malaysia",
+                            "Korea Selatan",
+                            "Jepang",
+                            "India",
+                            "Singapura"
+                          ]
+                        },
+                        {
+                          "periode": "Juni 2022",
+                          "data": [
+                            "Malaysia",
+                            "Singapura",
+                            "Korea Selatan",
+                            "Amerika Serikat",
+                            "Tiongkok"
+                          ]
+                        },
+                        {
+                          "periode": "Juli 2022",
+                          "data": [
+                            "Malaysia",
+                            "Arab Saudi ",
+                            "Korea Selatan",
+                            "Jepang",
+                            "Amerika Serikat"
+                          ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            "Malaysia",
+                            "Korea Selatan",
+                            "Singapura",
+                            "Jepang",
+                            "Tiongkok"
+                          ]
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            "Malaysia",
+                            "Singapura",
+                            "Tiongkok",
+                            "Jepang",
+                            "Korea Selatan"
+                          ]
+                        }                        
+                      ],
+                      "filter": [
+                        {
+                          "label": "Januari 2022",
+                          "value": "Januari 2022"
+                        },
+                        {
+                          "label": "Februari 2022",
+                          "value": "Februari 2022"
+                        },
+                        {
+                          "label": "Maret 2022",
+                          "value": "Maret 2022"
+                        },
+                        {
+                          "label": "April 2022",
+                          "value": "April 2022"
+                        },
+                        {
+                          "label": "Mei 2022",
+                          "value": "Mei 2022"
+                        },
+                        {
+                          "label": "Juni 2022",
+                          "value": "Juni 2022"
+                        },
+                        {
+                          "label": "Juli 2022",
+                          "value": "Juli 2022"
+                        },
+                        {
+                          "label": "Agustus 2022",
+                          "value": "Agustus 2022"
+                        },
+                        {
+                          "label": "September 2022",
+                          "value": "September 2022"
+                        }                        
+                      ],
+                      "colors": "#11375C"
+                    }
+                  ]
+                }
+              ]
+            },
+            "fiveCountriesExitingToIndonesia": {
+              "pageTitle": "Publikasi Statistik Data Perlintasan WNI dan WNA",
+              "contents": [
+                {
+                  "type": "h4",
+                  "content": "Top 5 Negara yang Keluar dari Indonesia"
+                },
+                {
+                  "type": "p",
+                  "content": "Setiap orang dapat keluar Wilayah Indonesia setelah memenuhi persyaratan dan mendapat Tanda Keluar dari Pejabat Imigrasi. "
+                },
+                {
+                  "type": "p",
+                  "content": "Pejabat Imigrasi juga berwenang menolak Orang Asing untuk keluar Wilayah Indonesia dalam hal Orang Asing tersebut masih mempunyai kewajiban di Indonesia yang harus diselesaikan sesuai dengan ketentuan perundang-undangan. "
+                },
+                {
+                  "type": "chart_bar_horizontal",
+                  "content": [
+                    {
+                      "data": [
+                        {
+                          "periode": "Januari 2022",
+                          "data": [
+                            3843,
+                            1917,
+                            1682,
+                            1299,
+                            1185
+                          ]
+                        },
+                        {
+                          "periode": "Februari 2022",
+                          "data": [
+                            2615,
+                            1736,
+                            1650,
+                            1163,
+                            773
+                          ]
+                        },
+                        {
+                          "periode": "Maret 2022",
+                          "data": [
+                            3521,
+                            3299,
+                            2417,
+                            1859,
+                            1431
+                          ]
+                        },
+                        {
+                          "periode": "April 2022",
+                          "data": [
+                            5642,
+                            5488,
+                            4769,
+                            4272,
+                            3970
+                          ]
+                        },
+                        {
+                          "periode": "Mei 2022",
+                          "data": [
+                            7192,
+                            5283,
+                            4723,
+                            4644,
+                            4464
+                          ]
+                        },
+                        {
+                          "periode": "Juni 2022",
+                          "data": [
+                            10487,
+                            8710,
+                            8120,
+                            6699,
+                            6600
+                          ]
+                        },
+                        {
+                          "periode": "Juli 2022",
+                          "data": [
+                            11887,
+                            9645,
+                            9213,
+                            8943,
+                            8341
+                          ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            13868,
+                            11856,
+                            9154,
+                            8896,
+                            8788
+                          ]
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            16416,
+                            10620,
+                            10323,
+                            8994,
+                            8562
+                          ]
+                        }                        
+                      ],
+                      "label": [
+                        {
+                          "periode": "Januari 2022",
+                          "data": [
+                            "Malaysia",
+                            "Korea Selatan",
+                            "Tiongkok",
+                            "Arab Saudi",
+                            "Jepang"
+                          ]
+                        },
+                        {
+                          "periode": "Februari 2022",
+                          "data": [
+                            "Tiongkok",
+                            "Korea Selatan",
+                            "Jepang",
+                            "India",
+                            "Malaysia"
+                          ]
+                        },
+                        {
+                          "periode": "Maret 2022",
+                          "data": [
+                            "Tiongkok",
+                            "Jepang",
+                            "Korea Selatan",
+                            "India",
+                            "Malaysia"
+                          ]
+                        },
+                        {
+                          "periode": "April 2022",
+                          "data": [
+                            "Korea Selatan",
+                            "Jepang",
+                            "Malaysia",
+                            "Tiongkok",
+                            "India"
+                          ]
+                        },
+                        {
+                          "periode": "Mei 2022",
+                          "data": [
+                            "Malaysia",
+                            "Korea Selatan",
+                            "Singapura",
+                            "Tiongkok",
+                            "Jepang"
+                          ]
+                        },
+                        {
+                          "periode": "Juni 2022",
+                          "data": [
+                            "Malaysia",
+                            "Korea Selatan",
+                            "Singapura",
+                            "India",
+                            "Jepang"
+                          ]
+                        },
+                        {
+                          "periode": "Juli 2022",
+                          "data": [
+                            "Malaysia",
+                            "Korea Selatan",
+                            "Tiongkok",
+                            "Arab Saudi ",
+                            "Jepang"
+                          ]
+                        },
+                        {
+                          "periode": "Agustus 2022",
+                          "data": [
+                            "Malaysia",
+                            "Tiongkok",
+                            "Singapura",
+                            "Korea Selatan",
+                            "Jepang"
+                          ]
+                        },
+                        {
+                          "periode": "September 2022",
+                          "data": [
+                            "Malaysia",
+                            "Singapura",
+                            "Tiongkok",
+                            "Jepang",
+                            "Korea Selatan"
+                          ]
+                        }                        
+                      ],
+                      "filter": [
+                        {
+                          "label": "Januari 2022",
+                          "value": "Januari 2022"
+                        },
+                        {
+                          "label": "Februari 2022",
+                          "value": "Februari 2022"
+                        },
+                        {
+                          "label": "Maret 2022",
+                          "value": "Maret 2022"
+                        },
+                        {
+                          "label": "April 2022",
+                          "value": "April 2022"
+                        },
+                        {
+                          "label": "Mei 2022",
+                          "value": "Mei 2022"
+                        },
+                        {
+                          "label": "Juni 2022",
+                          "value": "Juni 2022"
+                        },
+                        {
+                          "label": "Juli 2022",
+                          "value": "Juli 2022"
+                        },
+                        {
+                          "label": "Agustus 2022",
+                          "value": "Agustus 2022"
+                        },
+                        {
+                          "label": "September 2022",
+                          "value": "September 2022"
+                        }                        
+                      ],
+                      "colors": "#FBAF17"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

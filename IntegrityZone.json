@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "aboutUs": {
+                "pageTitle": "Tentang Zona Integritas",
+                "content": [
+                    {
+                        "type": "p",
+                        "content": "Reformasi birokrasi merupakan salah satu langkah awal untuk  melakukan penataan terhadap sistem penyelenggaraan pemerintahan yang baik, efektif dan efisien, sehingga dapat melayani masyarakat secara cepat, tepat, dan profesional. Dalam perjalanannya, banyak kendala yang dihadapi, diantaranya adalah penyalahgunaan wewenang, praktek KKN, dan lemahnya pengawasan. Sejalan dengan hal tersebut, Pemerintah telah menerbitkan Peraturan Presiden Nomor 81 Tahun 2010 Tentang Grand Design Reformasi Birokrasi yang mengatur tentang pelaksanaan program reformasi birokrasi. Peraturan tersebut menargetkan tercapainya tiga sasaran hasil utama yaitu peningkatan kapasitas dan akuntabilitas organisasi, pemerintah yang bersih dan bebas KKN, serta peningkatan pelayanan publik. Dalam rangka mengakselerasi pencapaian sasaran hasil tersebut, maka instansi pemerintah perlu untuk membangun pilot project pelaksanaan reformasi birokrasi yang dapat menjadi percontohan penerapan pada unit-unit kerja lainnya. Untuk itu, perlu secara konkret dilaksanakan program reformasi birokrasi pada unit kerja melalui upaya pembangunan Zona Integritas."
+                    },
+                    {
+                        "type": "p",
+                        "content": "Berdasarkan Peraturan Menteri PAN dan RB No. 52 Tahun 2014 Tentang Pedoman Pembangunan Zona Integritas Menuju Wilayah Bebas Dari Korupsi Dan Wilayah Birokrasi Bersih Dan Melayani Di Lingkungan Instansi Pemerintah, Predikat Menuju Wilayah Bebas dari Korupsi (Menuju WBK) adalah predikat yang diberikan kepada suatu unit kerja yang memenuhi sebagian besar manajemen perubahan, penataan tatalaksana, penataan sistem manajemen SDM, penguatan pengawasan, dan penguatan akuntabilitas kinerja. Pada tahun 2022, Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta berhasil mendapatkan predikat WBK tersebut berkat dukungan dan kerja sama dari seluruh pegawai."
+                    }
+                ]
+            },
+            "changingArea": {
+                "pageTitle": "6 Area Perubahan Zona Integritas",
+                "content": [
+                    {
+                        "type": "ol",
+                        "content": [
+                            {
+                                "type": "li",
+                                "content": "Manajemen Perubahan \n a.Penyusunan Tim Kerja \n b.Rencana Pembangunan Zona Integritas \n c.Pemantauan Dan Evaluasi Pembangunan WBK/WBBM \n d.Perubahan Pola Pikir dan Budaya Kerja2. Penataan Tata Laksana"
+                            },
+                            {
+                                "type": "li",
+                                "content": "Penataan Tata Laksana \n a.Prosedur Operasional Tetap (SOP) \n b.E-Office \n c.Keterbukaan Informasi Publik"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

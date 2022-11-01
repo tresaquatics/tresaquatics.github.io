@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "peraturanPemerintah": {
+                "pageTitle": "Peraturan Pemerintah",
+                "content": [
+                    {
+                        "content": "Peraturan Pemerintah RI Nomor 48 Tahun 2021 Tentang Perubahan Ketiga Atas Peraturan Pemerintah Nomor 31 Tahun 2013 Tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2011 Tentang Keimigrasian",
+                        "date": "19 Maret 2021"
+                    },
+                    {
+                        "content": "Peraturan Pemerintah RI Nomor 51 Tahun 2020 Tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 31 Tahun 2013 Tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2011 Tentang Keimigrasian",
+                        "date": "19 Maret 2021"
+                    },
+                    {
+                        "content": "Peraturan Pemerintah RI Nomor 26 Tahun 2016 Tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 31 Tahun 2013 Tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2011 Tentang Keimigrasian",
+                        "date": "19 Maret 2021"
+                    },
+                    {
+                        "content": "Peraturan Pemerintah Nomor 31 Tahun 2013 Tentang Peraturan Pelaksanaan UU Nomor 6 Tahun 2011 Tentang Keimigrasian",
+                        "date": "19 Maret 2021"
+                    }
+                ]
+            },
+            "peraturanPresiden": {
+                "pageTitle": "Peraturan Pemerintah",
+                "content": [
+                    {
+                        "content": "Peraturan Presiden RI Nomor 21 Tahun 2016 Tentang Visa Bebas Kunjungan",
+                        "date": "19 Maret 2021"
+                    },
+                    {
+                        "content": "Peraturan Presiden RI Nomor 69 Tahun 2015 Tentang Visa Bebas Kunjungan",
+                        "date": "19 Maret 2021"
+                    },
+                    {
+                        "content": "Peraturan Presiden RI Nomor 43 Tahun 2011 Tentang Perubahan Ketiga Atas Keputusan Presiden Nomor 18 Tahun 2003 Tentang Visa Bebas Kunjungan Singkat",
+                        "date": "19 Maret 2021"
+                    }
+                ]
+            },
+            "peraturanMenteri": {
+                "pageTitle": "Peraturan Menteri",
+                "content": [
+                    {
+                        "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 8 Tahun 2022 Tentang Intelijen Keimigrasian",
+                        "date": "19 Maret 2021"
+                    },
+                    {
+                        "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 18 Tahun 2022 Tentang Perubahan Atas Peraturan Menteri HAM Nomor 8 Tahun 2014 Tentang Lapor Biasa dan Surat Perjalanan Laksana Paspor",
+                        "date": "19 Maret 2021"
+                    },
+                    {
+                        "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 34 Tahun 2021 Tentang Pemberian Visa dan Izin Tinggal Keimigrasian Dalam Masa Penanganan Covid-19 dan Pemulihan Ekonomi Nasional",
+                        "date": "19 Maret 2021"
+                    },
+                    {
+                        "content": "Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 44 Tahun 2015 Tentang Cara Pemeriksaan Masuk dan Keluar Wilayah Indonesia di Tempat Pemeriksaan Imigrasi",
+                        "date": "19 Maret 2021"
+                    }
+                ]
+            },
+            "peraturanDirjenim": {
+                "pageTitle": "Peraturan SE Dirjenim",
+                "content": [
+                    {
+                        "content": "Surat Edaran Nomor IMI-0700.GR.01.01 Tahun 2022 Tentang Kemudahan Keimigrasian Dalam Rangka Mendukung Pariwisata Berkelanjutan Pada Masa Pandemi Covid-19",
+                        "date": "19 Maret 2021"
+                    }
+                ]
+            }
+        }
+    ]
+}
