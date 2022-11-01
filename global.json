@@ -1,0 +1,90 @@
+{
+  "data": {
+    "footer": {
+      "contact": {
+        "email": {
+          "title": "Email",
+          "content": "kanim_soekarnohatta@imigrasi.go.id"
+        },
+        "phone": {
+          "title": "Telepon",
+          "content": "(021) 550 7185"
+        },
+        "wa": {
+          "title": "WhatsApp",
+          "content": "0811 833 7004"
+        },
+        "socmed": {
+          "title": "Sosial Media",
+          "content": [
+            {
+              "path": "https://www.instagram.com/imigrasi.soekarnohatta/",
+              "icon": "/images/socmed/8F3alDw.png"
+            },
+            {
+              "path": "https://twitter.com/imigrasi_soetta",
+              "icon": "/images/socmed/AgKMhLz.png"
+            },
+            {
+              "path": "https://www.facebook.com/imigrasi.soekarnohatta",
+              "icon": "/images/socmed/1NC6Xng.png"
+            },
+            {
+              "path": "https://www.youtube.com/c/KantorImigrasiSoekarnoHatta",
+              "icon": "/images/socmed/olr0gAq.png"
+            },
+            {
+              "path": "https://www.tiktok.com/@imigrasi.soekarnohatta",
+              "icon": "/images/socmed/ctgI8yj.png"
+            }
+          ]
+        }
+      },
+      "otherLinks": [
+        {
+          "label": "Pengumuman",
+          "path": "/ruang-berita/pengumuman"
+        },
+        {
+          "label": "Ruang Berita",
+          "path": "/ruang-berita"
+        },
+        {
+          "label": "Statistik",
+          "path": "/informasi-publik/statistik"
+        },
+        {
+          "label": "Jam Kerja",
+          "path": "/informasi-publik/jam-pelayanan"
+        }
+      ]
+    },
+    "contactUs": [
+      {
+        "type": "whistleblower",
+        "content": "Whistleblower",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSfv2KxBKJFDlSCtMaROY16ctTI3_xzTmxWRCuVo4wyyJITXYA/viewform"
+      },
+      {
+        "type": "lapor.id",
+        "content": "lapor.id",
+        "link": "https://lapor.go.id/"
+      },
+      {
+        "type": "wa",
+        "content": "+628118337004",
+        "link": "https://wa.me/"
+      },
+      {
+        "type": "mail",
+        "content": "Kanim_soekarnohatta@imigrasi.go.id",
+        "link": "mailto:"
+      },
+      {
+        "type": "phone",
+        "content": "+628118337004",
+        "link": "tel:"
+      }
+    ]
+  }
+}

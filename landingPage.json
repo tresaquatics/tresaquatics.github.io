@@ -1,0 +1,101 @@
+{
+  "data": {
+    "twitter": [
+      {
+        "id": "1540256067070078976"
+      },
+      {
+        "id": "1560962134334648320"
+      },
+      {
+        "id": "1553975632975249408"
+      },
+      {
+        "id": "1561556177649307648"
+      }
+    ],
+    "servicesApp": {
+      "title": "Berikut adalah daftar aplikasi pelayanan Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
+      "content": [
+        {
+          "title": "M-Paspor",
+          "description": "Tautan untuk mengunduh aplikasi pengajuan paspor bagi pengguna telepon genggam berbasis iOS / android",
+          "icon": "/images/apps/bSABXYS.png",
+          "appUrl": "",
+          "mobileApps": [
+            {
+              "type": "android",
+              "url": "https://play.google.com/store/apps/details?id=id.go.imigrasi.paspor_online&hl=in&gl=US",
+              "url_image": "/images/apps/FHclioE.png"
+            },
+            {
+              "type": "ios",
+              "url": "https://apps.apple.com/id/app/m-paspor/id1576336459",
+              "url_image": "/images/apps/J9tDSTK.png"
+            }
+          ]
+        },
+        {
+          "title": "Visa Online",
+          "description": "Tautan yang dapat digunakan oleh WNA yang akan mengajukan visa, bisa berupa visa kunjungan, VITAS, atau lainnya",
+          "icon": "/images/apps/mhWWwN7.png",
+          "appUrl": "https://visa-online.imigrasi.go.id/"
+        },
+        {
+          "title": "Cek Permohonan Paspor",
+          "description": "Fitur layanan yang dapat digunakan oleh pemohon untuk mengetahui perkembangan proses pengajuan paspor",
+          "icon": "/images/apps/Jush5VM.png",
+          "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/cekpermohonan/"
+        },
+        {
+          "title": "E-Perdim 11",
+          "description": "Tautan untuk lampiran pengisian formulir Dokumen Perjalanan Republik Indonesia (DPRI) dalam pengajuan permohonan paspor",
+          "icon": "/images/apps/nF90pro.png",
+          "appUrl": "https://soekarnohatta.imigrasi.go.id:8001/apps/eperdim11/"
+        },
+        {
+          "title": "Izin Tinggal Online",
+          "description": "Tautan yang dapat digunakan oleh pemohon/WNA untuk mengajukan dan melacak pengajuan izin tinggal secara online",
+          "icon": "/images/apps/ZixmWWn.png",
+          "appUrl": "",
+          "mobileApps": [
+            {
+              "type": "android",
+              "url": "https://izintinggal-online.imigrasi.go.id/",
+              "url_image": "/images/apps/Izin Tinggal Online.png"
+            },
+            {
+              "type": "ios",
+              "url": "http://kanwilkumhamdki.ddns.net:58880/intreport/device/license/",
+              "url_image": "/images/apps/SI KIBE.png"
+            }
+          ]
+        },
+        {
+          "title": "Pelaporan Orang Asing",
+          "description": "Aplikasi yang dapat digunakan oleh masyarakat untuk pelaporan orang asing yang berada di wilayahnya",
+          "icon": "/images/apps/dmpFSbr.png",
+          "appUrl": "https://apoa.imigrasi.go.id/poa/"
+        }
+      ]
+    },
+    "redirectSosmed": [
+      {
+        "type": "Instagram",
+        "link": "/ruang-berita/galeri-foto",
+        "igUrl": "https://www.instagram.com/imigrasi.soekarnohatta/",
+        "url_logo": ""
+      },
+      {
+        "type": "Twitter",
+        "link": "https://twitter.com/imigrasi_soetta",
+        "url_logo": ""
+      },
+      {
+        "type": "Facebook",
+        "link": "https://www.facebook.com/imigrasi.soekarnohatta/",
+        "url_logo": "https://scontent.fcgk29-1.fna.fbcdn.net/v/t1.6435-9/135767233_3711361735608573_8516821874556832313_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFgTCVdtcyoe1khfeIwu6oQRf6DFogL9eVF_oMWiAv15WxApLT18Au1dpMJmz9NDPsvlAd1vMsXEfTozoRSjwGp&_nc_ohc=HfXnP_MsJxwAX-OKPkr&_nc_ht=scontent.fcgk29-1.fna&oh=00_AT_17gDNRSi4sp3CAY3aWkWKBtkGgZVa4c507Tnlj4Vl7Q&oe=63451478"
+      }
+    ]
+  }
+}

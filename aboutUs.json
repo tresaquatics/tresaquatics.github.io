@@ -1,0 +1,286 @@
+{
+  "data": {
+    "strukturorganisasi": {
+      "leader": {
+        "title": "Kepala Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta",
+        "name": "Muhammad Tito Andrianto, S.H, M.H",
+        "nip": "NIP. 19780114 199703 1 001",
+        "photo": "/images/pejabat/R4RtKXc.jpg"
+      },
+      "tu": [
+        {
+          "title": "Kepala Bagian Tata Usaha",
+          "name": "Nur Raisha Pujiastuti, S.H, M.H",
+          "nip": "NIP. 19690423 199403 2 001",
+          "photo": "/images/pejabat/Eq1OK4t.jpg"
+        },
+        {
+          "title": "Kepala Sub Bagian Kepegawaian dan Umum",
+          "name": "Setyo Pitriyono, S.H",
+          "nip": "NIP. 19670114 198903 1 002",
+          "photo": "/images/pejabat/N8gG92O.jpg"
+        },
+        {
+          "title": "Kepala Sub Bagian Keuangan",
+          "name": "Edy Sriyatno, S.H",
+          "nip": "NIP. 19680409 200112 1 001",
+          "photo": "/images/pejabat/98buu21.jpg"
+        }
+      ],
+      "tikim": [
+        {
+          "title": "Kepala Bidang Teknologi Informasi dan Komunikasi Keimigrasian",
+          "name": "Habiburrahman A.K.S, S.H, M.M",
+          "nip": "NIP. 19710730 199603 1 001",
+          "photo": "/images/pejabat/lSqs9pC.jpg"
+        },
+        {
+          "title": "Kepala Seksi Teknologi Informasi Keimigrasian",
+          "name": "Oke Yoviana Nurmayanti, S.E, M.M",
+          "nip": "NIP. 19760513 200112 2 001",
+          "photo": "/images/pejabat/8PgVrHT.jpg"
+        },
+        {
+          "title": "Kepala Seksi Informasi dan Komunikasi Keimigrasian",
+          "name": "Jongki Ade Situngkir, S.H, M.M",
+          "nip": "NIP. 19840308 200604 1 001",
+          "photo": "/images/pejabat/N7kbWbm.jpg"
+        }
+      ],
+      "doklan": [
+        {
+          "title": "Kepala Bidang Dokumen Perjalanan dan Izin Tinggal Keimigrasian",
+          "name": "Ika Rahmawati, A.Md, Im., S.I.P",
+          "nip": "NIP. 19810811 200002 2 001",
+          "photo": "/images/pejabat/F5ERmP2.jpg"
+        },
+        {
+          "title": "Kepala Seksi Dokumen Perjalanan",
+          "name": "Heldi Khair Raja, A.Md, Im S.H, M.Si",
+          "nip": "NIP. 19880313 200801 1 001",
+          "photo": "/images/pejabat/kasek_dokumen_perjalanan.jpg"
+        },
+        {
+          "title": "Kepala Seksi Izin Tinggal Keimigrasian",
+          "name": "Yohanes Roy Surya Sanjaya, S.Tr.Im., M.M.",
+          "nip": "NIP. 19940501 201608 1 001",
+          "photo": "/images/pejabat/kasek_izin_tinggal_keimigrasian.jpg"
+        }
+      ],
+      "intel": [
+        {
+          "title": "Kepala Bidang Intelijen dan Penindakan Keimigrasian",
+          "name": "Andhika Pandu Kurniawan, A.Md,Im., S.H., M.PA",
+          "nip": "NIP. 19820505 200212 1 001",
+          "photo": "/images/pejabat/jnd0vWf.jpg"
+        },
+        {
+          "title": "Kepala Seksi Intelijen Keimigrasian",
+          "name": "Yogi Saputra Pribadi K, A.Md,Im, S.H",
+          "nip": "NIP. 19881024 200701 1 002",
+          "photo": "/images/pejabat/uinaTcB.jpg"
+        },
+        {
+          "title": "Kepala Seksi Penindakan Keimigrasian",
+          "name": "Bismo Surono, A.Md, Im., S.H",
+          "nip": "NIP. 19890421 200801 1 005",
+          "photo": "/images/pejabat/NH9dNwe.jpg"
+        }
+      ],
+      "tpi": [
+        {
+          "title": "Kepala Bidang Tempat Pemeriksaan Imigrasi",
+          "name": "Verico Sandi, A.Md. Im., S.H., M.Si",
+          "nip": "NIP. 19820326 200012 1 001",
+          "photo": "/images/pejabat/3QYD823.jpg"
+        },
+        {
+          "title": "Kepala Seksi Pemeriksaan I",
+          "name": "Maximilianus Kolbe Kristanto Lake, S.T, S.H, M.H",
+          "nip": "NIP. 19840824 200912 1 005",
+          "photo": "/images/pejabat/MtJQPCE.jpg"
+        },
+        {
+          "title": "Kepala Seksi Pemeriksaan II",
+          "name": "Nanang Saiful Isra Rusli, S.H",
+          "nip": "NIP. 19910212 201012 1 003",
+          "photo": "/images/pejabat/UBLxclz.jpg"
+        },
+        {
+          "title": "Kepala Seksi Pemeriksaan III",
+          "name": "Afif Nur Anshari, S.H",
+          "nip": "NIP. 19890426 200801 1 001",
+          "photo": "/images/pejabat/RnPwdOe.jpg"
+        },
+        {
+          "title": "Kepala Seksi Pemeriksaan IV",
+          "name": "Widhi Deniartomo Arisona, A.md.Im., S.H.",
+          "nip": "NIP. 19901211 201012 1 001",
+          "photo": "/images/pejabat/DpWrdUp.jpg"
+        }
+      ]
+    },
+    "profilekantor": {
+      "shortProfile": {
+        "title": "Profil Singkat Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta",
+        "content": "Kantor Imigrasi Kelas I Khusus TPI Soetta merupakan Unit Pelaksana Teknis di bidang Keimigrasian, bertanggung jawab langsung kepada Kepala Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia DKI Jakarta. Tugas pokok dan fungsinya adalah memberikan pelayanan kepada masyarakat, melaksanakan pengamanan negara melalui pengawasan perlintasan, penegakan hukum di bidang keimigrasian, serta fasilitator kesejahteraan masyarakat."
+      },
+      "history": {
+        "title": "Sejarah",
+        "list": [
+          {
+            "year": "1985",
+            "date": "1 April 1985",
+            "content": "Kantor Imigrasi diresmikan oleh Menteri Kehakiman. Posisi Kantor Imigrasi Soekarno Hatta menggantikan Kantor Imigrasi Halim Perdana Kusuma dikarenakan kegiatan penerbangan saat itu juga dipindah ke bandara Soekarno Hatta."
+          },
+          {
+            "year": "2003",
+            "date": "3 Desember 2003",
+            "content": "Seiring berjalannya waktu, aktivitas penerbangan internasional semakin meningkat serta volume kerja juga cukup besar, maka Kantor Imigrasi I Soekarno Hatta berubah klasifikasinya menjadi Kantor Imigrasi Kelas I Khusus Soekarno Hatta, berdasarkan urat Keputusan Menteri Hukum dan Hak Asasi Manusia Nomor M.14.PR.07.04 Tahun 2003 Tanggal 03 Desember 2003."
+          },
+          {
+            "year": "2018",
+            "date": "13 Juli 2018",
+            "content": "2018 telah dibentuk perubahan Organisasi dan Tata Kerja Kantor Imigrasi yang baru dilingkungan Kementerian Hukum dan HAM. Kantor Imigrasi Kelas I Khusus Soekarno Hatta berubah menjadi Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta yang telah dituangkan dalam Peraturan Menteri Hukum dan Hak Asasi Manusia RI Nomor 19 Tahun 2018 tanggal 13 Juli 2018 tentang Organisasi dan Tata Kerja Kantor Imigrasi."
+          }
+        ]
+      },
+      "service": {
+        "title": "Visi, Misi, Motto dan Janji Layanan",
+        "vision": "Masyarakat Memperoleh Kepastian Hukum",
+        "mission": "Melindungi Hak Asasi Manusia",
+        "motto": "Melayani Dengan Tulus",
+        "servicePromise": [
+          "Kepastian Hukum",
+          "Kepastian Layanan",
+          "Kepastian Waktu Penyelesaian"
+        ]
+      },
+      "workingArea": {
+        "title": "Cakupan Wilayah Kerja Kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta",
+        "description1": "Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta merupakan Unit Pelaksana Teknis di bidang Keimigrasian, bertanggung jawab langsung kepada Kepala Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia DKI Jakarta. Tugas pokok dan fungsinya adalah memberikan pelayanan kepada masyarakat serta melaksanakan pengawasan perlintasan & penegakan hukum di bidang keimigrasian.",
+        "description2": "Wilayah Kerja Kantor Imigrasi Kelas I Khusus TPI Soekarno-Hatta mengawasi 2 kecamatan, yaitu :",
+        "description3": "Bandara Internasional Soekarno-Hatta merupakan wilayah kerja Kanim Kelas I Khusus TPI Soekarno Hatta sebagai tempat pemeriksaan imigrasi (TPI).",
+        "areaName1": "Wilayah Cengkareng",
+        "areaName2": "Wilayah Kalideres",
+        "cengkarengArea": [
+          "Cengkareng Barat",
+          "Cengkareng Timur",
+          "Duri Kosambi",
+          "Kapuk",
+          "Kedauk Kaliangke",
+          "Rawa Buaya"
+        ],
+        "kalideresArea": [
+          "Kalideres",
+          "Kamal",
+          "Pegadungan",
+          "Semanan",
+          "Tegal Alur"
+        ]
+      },
+      "systemIntegration": {
+        "description": "System kerja di kantor Imigrasi Kelas I Khusus TPI Soekarno Hatta ditunjang dengan kesisteman yang terintegrasi. System yang bekerja semua terkoneksi untuk melakukan pelayanan sekaligus pengawasan keimigrasian",
+        "list": [
+          "Sistem penerbitan paspor berbasis biometric dan face recognition",
+          "Sistem e-office sebagai sarana pelayanan keimigrasian yang terkoneksi antara Unit Pelaksana Teknis (UPT) dengan Kantor Wilayah serta Direktorat Jenderal Imigrasi dan Direktorat Jenderal Imigrasi.",
+          "Sistem Enhanced Cekal System (ECS) sebagai sarana pemeriksaan cegah tangkal (cekal)",
+          "Passanger Moving System (PMS) sebagai sarana perlintasan orang di Tempat Pemeriksaan Imigrasi (TPI)",
+          "Sistem Border Control Management (BCM) dapat terekam ke pusat data keimigrasian",
+          "E-passport",
+          "Autogate sebagai sarana perlintasan orang (khususnya WNI) di Tempat Pemeriksaan Imigrasi baik yang menggunakan e-passport maupun paspor biasa"
+        ]
+      },
+      "headsOfficeList": [
+        {
+          "name": "Muhammad Tito Andrianto",
+          "years": "2022 - Sekarang"
+        },
+        {
+          "name": "Romi Yudianto",
+          "years": "2020 - 2022"
+        },
+        {
+          "name": "Saffar Muhammad Godam",
+          "years": "2019 - 2020"
+        },
+        {
+          "name": "M. T. Satiawan, S.Sos., M.M",
+          "years": "2019 - 2019"
+        },
+        {
+          "name": "Enang Supriyadi Syamsi, S.H",
+          "years": "2017 - 2018"
+        },
+        {
+          "name": "Kaharuddin, S.H, M.M",
+          "years": "2016 - 2017"
+        },
+        {
+          "name": "Drs. Alif Suaidi, M.Si",
+          "years": "2015 - 2016"
+        },
+        {
+          "name": "Sutrisno, S.HH, M.H",
+          "years": "2014 - 2015"
+        },
+        {
+          "name": "Efendy B. Peranginangin, S.H",
+          "years": "2012 - 2014"
+        },
+        {
+          "name": "Rochadi Iman Santoso, S.H., M.H",
+          "years": "2011 - 2012"
+        },
+        {
+          "name": "Dirman Sukarsi, S.H., M.h",
+          "years": "2010 - 2011"
+        },
+        {
+          "name": "Luckman Hakim, Bc.IM., S.H",
+          "years": "2007 - 2010"
+        },
+        {
+          "name": "Dody Maywardi Wibowo",
+          "years": "2006 - 2007"
+        },
+        {
+          "name": "Bambang Irawan",
+          "years": "2005 - 2006"
+        },
+        {
+          "name": "Drs. H. Guntoro Hermanuadi",
+          "years": "2003 - 2005"
+        },
+        {
+          "name": "Drs. Arihken Tarigan",
+          "years": "1999 - 2003"
+        },
+        {
+          "name": "Sudirman, S.H",
+          "years": "1996 - 1999"
+        },
+        {
+          "name": "Koswara, S.H",
+          "years": "1994 - 1996"
+        },
+        {
+          "name": "Pommy AJ Theedens, Bc.Im",
+          "years": "1992 - 1994"
+        },
+        {
+          "name": "Soejatno, BC.IM",
+          "years": "1989 - 1992"
+        },
+        {
+          "name": "Drs. Toni A. Siregar",
+          "years": "1987 - 1989"
+        },
+        {
+          "name": "Drs. Fuad Djapar",
+          "years": "1985 - 1987"
+        }
+      ]
+    }
+  }
+}
